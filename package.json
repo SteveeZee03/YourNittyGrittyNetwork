@@ -1,0 +1,30 @@
+{
+    "name": "yournittygrittynetwork",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SteveeZee03/YourNittyGrittyNetwork.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SteveeZee03/YourNittyGrittyNetwork/issues"
+    },
+    "homepage": "https://github.com/SteveeZee03/YourNittyGrittyNetwork#readme",
+    "dependencies": {
+        "express": "^4.18.2",
+        "moment": "^2.29.4",
+        "mongodb": "^5.2.0",
+        "mongoose": "^7.0.3",
+        "nodemon": "^2.0.22"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.22"
+    }
+}

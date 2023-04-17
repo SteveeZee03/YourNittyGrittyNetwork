@@ -2,7 +2,7 @@
 ![Github License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## <b>Description</b>
-YourNittyGrittyNetwork(YNGN) is a spot to scout for folks to talk they thoughts aloud!
+YourNittyGrittyNetwork(YNGN) is a social network api 
 ## <b>Table of Contents</b>
 * [Installation](#installation)
 

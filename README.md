@@ -13,6 +13,18 @@ YourNittyGrittyNetwork(YNGN) is a social network api
 
 * [Questions](#questions)
 
+## <b>Installation</b>
+Run the following commands below to install the required dependencies.  
+npm i (all dependencies saved in package.json)<br>
+<p><b>Dependencies:</b></p>
+<li>express: ^4.18.2</li>
+<li>moment: ^2.29.4</li>
+<li>mongodb: ^5.2.0</li> 
+<li>mongoose: ^7.0.3</li>
+<li>nodemon: ^2.0.22</li><br>
+<b>Dev Dependencies:</b><br>
+<li>nodemon: ^2.0.4</li>
+
 ## <b>License</b>
 This project is licensed under the MIT license.
 

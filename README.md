@@ -4,6 +4,7 @@
 ## <b>Description</b>
 YourNittyGrittyNetwork(YNGN) is a social network api 
 ## <b>Table of Contents</b>
+* [Installation](#installation)
 
 * [License](#license)
 
